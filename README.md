@@ -24,7 +24,7 @@ Example interaction:
 ```
 
 ## Multiplication table
-Have the user input an integer (Could be positive or negative). Print the first twelve multiles of the user's number.
+Have the user input an integer (Could be positive or negative). Print the first twelve multiles of the user's number.</br>
 Example interaction:
 ```
 >> Enter a number: 2
@@ -43,7 +43,7 @@ Example interaction:
 ```
 
 ## Only one remainder
-Have the user input a positive integer. Print all the numbers less than the user's number that have a remainder of 1 when dividing by 3. Hint: Remember that modulous operator? It gives you back the remainder after division. For example ```7 % 3``` is 1 because 3 goes into 7 two times with a remainder of 1. 
+Have the user input a positive integer. Print all the numbers less than the user's number that have a remainder of 1 when dividing by 3. Hint: Remember that modulous operator? It gives you back the remainder after division. For example ```7 % 3``` is 1 because 3 goes into 7 two times with a remainder of 1. </br>
 Example Interaction:
 ```
 >> Enter a number: 10
@@ -54,7 +54,7 @@ Example Interaction:
 Notice I didn't print 10!!
 
 ## Awesome Triangles
-Have the user input a positive integer. Print out a triangle pattern based off of their input.
+Have the user input a positive integer. Print out a triangle pattern based off of their input.</br>
 Example Interaction:
 ```
 >> Enter a number: 3
@@ -73,11 +73,11 @@ Example Interaction:
 
 ## Factorial
 Have the user input a positive integer greater than 0. Print out the factorial of the number.
-A factorial is the product of all of the positive integers before it. To see what that even means, let's look at an example:
-5 factorial (denoted 5!) = 5 * 4 * 3 * 2 * 1
-4! = 4 * 3 * 2 * 1
-10! = 10 * 9 * 8 * 7 *  * 5 * 4 * 3 * 2 * 1
-Hopefully that makes sense.
+A factorial is the product of all of the positive integers before it. To see what that even means, let's look at an example:</br>
+5 factorial (denoted 5!) = 5 * 4 * 3 * 2 * 1</br>
+4! = 4 * 3 * 2 * 1</br>
+10! = 10 * 9 * 8 * 7 *  * 5 * 4 * 3 * 2 * 1</br>
+Hopefully that makes sense.</br>
 Example Interaction:
 ```
 >> Enter a number: 5
