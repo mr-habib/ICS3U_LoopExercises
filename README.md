@@ -13,7 +13,7 @@ print("Code goes here")
 ...
 ```
 ## Natural Numbers
-Have the user input a positive integer. Print all the numbers from 0 up to (AND INCLUDING) the user's inputted number.
+Have the user input a positive integer. Print all the numbers from 0 up to (AND INCLUDING) the user's inputted number.</br>
 Example interaction:
 ```
 >> Enter a number: 3
